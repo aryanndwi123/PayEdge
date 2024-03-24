@@ -33,6 +33,4 @@ If you encounter any issues or have any questions about PayEdge, please don't he
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
-- Open for open source contribution.
