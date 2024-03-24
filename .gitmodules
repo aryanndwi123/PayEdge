@@ -1,0 +1,6 @@
+[submodule "payE-frontend"]
+	path = payE-frontend
+	url = https://github.com/aryanndwi123/frontend-kuberbill
+[submodule "PayEdgeMain"]
+	path = PayEdgeMain
+	url = https://github.com/aryanndwi123/backend-kuberbill
